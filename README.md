@@ -14,4 +14,6 @@ In the program, I set the remote's +/- buttons to directly control the treads. T
 * **Red:** blade tilt
 * **White:** function switching in progress
 
+To use: copy-paste the contents of main.py into the Pybricks IDE and either download it to the model or install it along with the firmware.
+
 This program served as inspiration for the 42131 project at [Pybricks.com](https://pybricks.com/projects/sets/technic/42131-cat-bulldozer/).
